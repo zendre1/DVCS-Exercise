@@ -1,6 +1,4 @@
 # DVCS-Exercise
-GitHub Desktop Exercise
-
-by
+GitHub Desktop Exercise by
 
 Zsolt Endre
